@@ -1,0 +1,73 @@
+body {
+    background-image: url("../images/main-pic.jpg");
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.row {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#randomNumber {
+    margin: 40px, 30px, 40px, 30px;
+    border: gray;
+    font-style: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+#scores {
+    Width: 50px;
+    height: 30px;
+    font-size: 15px;
+}
+
+#playerChoice {
+    margin: 40px, 30px, 40px, 30px;
+    border: gray;
+    font-style: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+.crystalButtons {
+    margin-left: 250px;
+    margin-right: 200px;
+
+}
+
+#button1 {
+    Width: 145px;
+    height: 135px;
+    margin-right: 50px;    
+    background-color: white;
+}
+
+
+#button2 {
+    Width: 145px;
+    height: 135px;
+    margin-right: 50px;    
+    background-color: white;
+}
+
+
+#button3 {
+    Width: 145px;
+    height: 135px;
+    margin-right: 50px;    
+    background-color: white;
+}
+
+
+#button4 {
+    Width: 145px;
+    height: 135px;
+    margin-right: 50px;    
+    background-color: white;
+}
+
+
+
+
